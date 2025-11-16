@@ -1,0 +1,3 @@
+Pattern matching algorithms like KMP help computers find exact sequences quickly.
+Artificial intelligence continues to grow rapidly.
+KMP helps in fast pattern matching which is useful in many applications.

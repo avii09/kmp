@@ -1,0 +1,2 @@
+Artificial intelligence is transforming the world.
+Machine learning techniques such as KMP help in fast pattern matching.

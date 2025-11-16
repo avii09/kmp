@@ -1,0 +1,2 @@
+Machine learning techniques such as KMP help in fast pattern matching.
+This line is clearly reused from doc1.

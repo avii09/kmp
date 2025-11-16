@@ -1,0 +1,3 @@
+Artificial intelligence is transforming the world.
+Machine learning techniques such as KMP help in fast pattern matching.
+This sentence is added to test plagiarism detection using the KMP algorithm.
